@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Louder Now",
+  "base_artist": "Tobu",
+  "createdAt": "2026-01-03T15:46:45.523436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Calm Down (A Little Bit Louder Now)",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/01_Calm_Down_(A_Little_Bit_Louder_Now)_All_Time_Low.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Louder Now",
+      "artist": "Tobu",
+      "has_synced": true,
+      "path": "select/02_Louder_Now_Tobu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "36 Louder Now",
+      "artist": "Tobu",
+      "has_synced": true,
+      "path": "select/03_36_Louder_Now_Tobu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "louder now",
+      "artist": "tobu",
+      "has_synced": true,
+      "path": "select/04_louder_now_tobu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Calm Down (A Little Bit Louder Now)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/05_Calm_Down_(A_Little_Bit_Louder_Now)_All_Time_Low.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Louder Now",
+      "artist": "Tobu",
+      "has_synced": false,
+      "path": "select/pl_01_Louder_Now_Tobu.txt"
+    }
+  ]
+}
